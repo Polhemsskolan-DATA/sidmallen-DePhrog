@@ -1,0 +1,38 @@
+/*Author: Joachim Landell EEdata2 */    
+body{ /* bodyn's inställningar */
+    text-align: center;
+}
+
+.nono{ /* detta är alignment och färg för huvudtexten*/
+    text-align:center; 
+    color: rgb(255, 253, 203);
+
+}
+.random{ /*random crits explaind (länk) inställningar */
+    color:rgb(121, 205, 243);
+    
+}
+img { /* detta är inställningarna för att få bilden Remove Random Crits att se ut som den gör*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: solid;
+   border-color: rgb(58, 9, 18);
+   border-radius: 15px;
+}
+.Lorem { /*Lorem Ipsum inställningar*/
+    text-align: left;
+    color: rgb(255, 253, 203);
+    border: solid;
+    border-color: rgb(58, 9, 18);
+    max-width: 60%;
+    margin: auto;
+    padding: 5px;
+    border-radius: 15px;
+} /*gif inställningar*/
+.gif{
+   border: solid;
+   border-color: rgb(58, 9, 18);
+   border-radius: 15px;
+}
