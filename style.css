@@ -1,6 +1,7 @@
 /*Author: Joachim Landell EEdata2 */    
 body{ /* bodyn's inställningar */
     text-align: center;
+    background-color:rgb(130, 24, 44);
 }
 
 .nono{ /* detta är alignment och färg för huvudtexten*/
